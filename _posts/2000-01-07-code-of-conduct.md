@@ -1,5 +1,5 @@
 ---
-title: "video"
+title: "code of conduct"
 bg: turquoise
 color: white
 fa-icon: film
