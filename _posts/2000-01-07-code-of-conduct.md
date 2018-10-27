@@ -5,19 +5,36 @@ color: white
 fa-icon: film
 ---
 
-Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
+This is the code of conduct for our community.
 
-### Embed your video like this:
-{: .left}
+These are the values to which people in the community should aspire.
 
-{% highlight html linenos=table %}
-<div class="icontain">
-  <iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe>
-</div>
-{% endhighlight %}
+    -Be friendly and welcoming
+    Be patient
+        Remember that people have varying communication styles and that not everyone is using their native language. (Meaning and tone can be lost in translation.) 
+    Be thoughtful
+        Productive communication requires effort. Think about how your words will be interpreted.
+        Remember that sometimes it is best to refrain entirely from commenting. 
+    Be respectful
+        In particular, respect differences of opinion. 
+    Be charitable
+        Interpret the arguments of others in good faith, do not seek to disagree.
+        When we do disagree, try to understand why. 
+    Avoid destructive behavior:
+        Derailing: stay on topic; if you want to talk about something else, start a new conversation.
+        Unconstructive criticism: don't merely decry the current state of affairs; offer—or at least solicit—suggestions as to how things may be improved.
+        Snarking (pithy, unproductive, sniping comments)
+        Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
+        Microaggressions: brief and commonplace verbal, behavioral and environmental indignities that communicate hostile, derogatory or negative slights and insults to a person or group. 
 
-It'll play like this funny video below! Try resizing the page!
+People are complicated. You should expect to be misunderstood and to misunderstand others; when this inevitably occurs, resist the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it. It is the responsibility of all parties to de-escalate conflict when it arises. 
 
-Photo layouts are also really cool and dynamically resizable. Check out the photos/gallery section at [magiciansanfrancisco.com](http://magiciansanfrancisco.com) for a demo and see [the source code](https://github.com/strongrobert/MagicianSanFrancisco) for how.
+Be mindful of your language. Any of the following behavior is unacceptable:
+Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or   background
+Threats of violence
+Deliberate intimidation.
+Sexually explicit or violent material
+Unwelcome sexual attention
+Stalking or following
+Or any other kinds of harassment
 
-<div class="icontain"><iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe></div>
